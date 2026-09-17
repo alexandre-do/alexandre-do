@@ -4,8 +4,9 @@
 
 </div>
 
-### 🧑‍💻 About Me ![Profile Views](https://komarev.com/ghpvc/?username=alexandre-do&label=Views&color=yellow&style=flat)
+### 👨‍💻 About Me
 
+- ![Profile Views](https://komarev.com/ghpvc/?username=alexandre-do&label=Views&color=yellow&style=flat)
 - 🧠 Machine Learning Engineer with 8+ years of experience
 - 🤖 Focused on AI agentic applications, web APIs, and data pipelines
 - 🛠️ Primary languages: Python, Java, TypeScript, Go
