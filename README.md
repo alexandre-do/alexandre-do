@@ -4,12 +4,11 @@
 
 </div>
 
-### ⭐ About Me
+### ![Profile Views](https://komarev.com/ghpvc/?username=alexandre-do&label=Views&color=yellow&style=flat) About Me
 
 - 🧠 Machine Learning Engineer with 8+ years of experience
 - 🤖 Focused on AI agentic applications, web APIs, and data pipelines
 - 🛠️ Primary languages: Python, Java, TypeScript, Go
-- ⭐ ![Profile Views](https://komarev.com/ghpvc/?username=alexandre-do&label=Views&color=yellow&style=flat)
 
 ### 💻 Skills
 
@@ -24,3 +23,4 @@
 |---|---|
 | **[chat-retrieval-system](https://github.com/alexandre-do/chat-retrieval-system)**<br>Local-first RAG chat app for finance documents — Amazon Bedrock for embeddings/generation, Chroma for retrieval, built on the UniDoc-Bench dataset | <img src="https://raw.githubusercontent.com/alexandre-do/chat-retrieval-system/develop/assets/demo.gif" width="220"/> |
 | **[agentic-financial-analyst](https://github.com/alexandre-do/agentic-financial-analyst)**<br>Agentic analytics app that interprets NL queries, pulls live market data via MCP, queries SQL sources, and generates visualizations through LangChain/LangGraph agents | |
+| **[google-news-rss-radar](https://github.com/alexandre-do/google-news-rss-radar)**<br>Node.js pipeline that collects Google News RSS entries, extracts full article content into MongoDB, and exposes it through a search/trends API and React dashboard | <img src="https://raw.githubusercontent.com/alexandre-do/google-news-rss-radar/main/assets/demo.gif" width="220"/> |
