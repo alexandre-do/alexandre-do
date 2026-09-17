@@ -9,8 +9,9 @@
 - 🧠 Machine Learning Engineer with 8+ years of experience
 - 🤖 Focused on AI agentic applications, web APIs, and data pipelines
 - 🛠️ Primary languages: Python, Java, TypeScript, Go
+- ⭐ ![Profile Views](https://komarev.com/ghpvc/?username=alexandre-do&label=Views&color=yellow&style=flat)
 
-### 💻 Skills <img src="https://komarev.com/ghpvc/?username=alexandre-do&label=%E2%AD%90+Views&color=yellow&style=for-the-badge" align="right"/>
+### 💻 Skills
 
 | Category | Stack |
 |---|---|
@@ -19,7 +20,10 @@
 
 ### 🚀 Projects
 
-| Project | Description |
-|---|---|
-| [chat-retrieval-system](https://github.com/alexandre-do/chat-retrieval-system) | Local-first RAG chat app for finance documents — Amazon Bedrock for embeddings/generation, Chroma for retrieval, built on the UniDoc-Bench dataset |
-| [agentic-financial-analyst](https://github.com/alexandre-do/agentic-financial-analyst) | Agentic analytics app that interprets NL queries, pulls live market data via MCP, queries SQL sources, and generates visualizations through LangChain/LangGraph agents |
+**[chat-retrieval-system](https://github.com/alexandre-do/chat-retrieval-system)**
+Local-first RAG chat app for finance documents — Amazon Bedrock for embeddings/generation, Chroma for retrieval, built on the UniDoc-Bench dataset
+
+<img src="https://raw.githubusercontent.com/alexandre-do/chat-retrieval-system/develop/assets/demo.gif" width="600"/>
+
+**[agentic-financial-analyst](https://github.com/alexandre-do/agentic-financial-analyst)**
+Agentic analytics app that interprets NL queries, pulls live market data via MCP, queries SQL sources, and generates visualizations through LangChain/LangGraph agents
