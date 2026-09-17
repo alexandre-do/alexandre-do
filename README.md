@@ -20,10 +20,7 @@
 
 ### 🚀 Projects
 
-**[chat-retrieval-system](https://github.com/alexandre-do/chat-retrieval-system)**
-Local-first RAG chat app for finance documents — Amazon Bedrock for embeddings/generation, Chroma for retrieval, built on the UniDoc-Bench dataset
-
-<img src="https://raw.githubusercontent.com/alexandre-do/chat-retrieval-system/develop/assets/demo.gif" width="600"/>
-
-**[agentic-financial-analyst](https://github.com/alexandre-do/agentic-financial-analyst)**
-Agentic analytics app that interprets NL queries, pulls live market data via MCP, queries SQL sources, and generates visualizations through LangChain/LangGraph agents
+| Project | Preview |
+|---|---|
+| **[chat-retrieval-system](https://github.com/alexandre-do/chat-retrieval-system)**<br>Local-first RAG chat app for finance documents — Amazon Bedrock for embeddings/generation, Chroma for retrieval, built on the UniDoc-Bench dataset | <img src="https://raw.githubusercontent.com/alexandre-do/chat-retrieval-system/develop/assets/demo.gif" width="220"/> |
+| **[agentic-financial-analyst](https://github.com/alexandre-do/agentic-financial-analyst)**<br>Agentic analytics app that interprets NL queries, pulls live market data via MCP, queries SQL sources, and generates visualizations through LangChain/LangGraph agents | |
