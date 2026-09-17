@@ -10,7 +10,7 @@
 - 🤖 Focused on AI agentic applications, web APIs, and data pipelines
 - 🛠️ Primary languages: Python, Java, TypeScript, Go
 
-### 💻 Skills
+### 💻 Skills <img src="https://komarev.com/ghpvc/?username=alexandre-do&label=%E2%AD%90+Views&color=yellow&style=for-the-badge" align="right"/>
 
 | Category | Stack |
 |---|---|
@@ -23,19 +23,3 @@
 |---|---|
 | [chat-retrieval-system](https://github.com/alexandre-do/chat-retrieval-system) | Local-first RAG chat app for finance documents — Amazon Bedrock for embeddings/generation, Chroma for retrieval, built on the UniDoc-Bench dataset |
 | [agentic-financial-analyst](https://github.com/alexandre-do/agentic-financial-analyst) | Agentic analytics app that interprets NL queries, pulls live market data via MCP, queries SQL sources, and generates visualizations through LangChain/LangGraph agents |
-
-### 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-do&show_icons=true&theme=default&hide_border=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alexandre-do&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-do&layout=compact&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=alexandre-do&color=blue)
-
-</div>
