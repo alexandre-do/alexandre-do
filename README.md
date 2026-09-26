@@ -1,3 +1,10 @@
+```
+   ___   __                     __        ___  ____ 
+  / _ | / /____ _____ ____  ___/ /______ / _ \/ __ \
+ / __ |/ / -_) \ / _ `/ _ \/ _  / __/ -_) // / /_/ /
+/_/ |_/_/\__/_\_\\_,_/_//_/\_,_/_/  \__/____/\____/
+```
+
 ### 👨‍💻 About Me
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=alexandre-do&label=Views&color=yellow&style=flat)
